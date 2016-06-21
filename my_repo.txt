@@ -1,0 +1,3 @@
+https://github.com/jae-anonas/git-and-github-practice.git
+
+https://github.com/TuckingFypos/git-and-github-practice-two.git
